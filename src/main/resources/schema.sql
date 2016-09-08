@@ -1,0 +1,4 @@
+CREATE TABLE jsonCaught(
+  id INTEGER IDENTITY PRIMARY KEY,
+  payload  VARCHAR(1000)
+);
